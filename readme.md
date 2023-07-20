@@ -2,3 +2,5 @@
 
 Repositorio donde se muestran las prácticas
 realizas en el bootcamp de generation.
+
+## Descripción de las carpetas
