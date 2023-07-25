@@ -1,0 +1,10 @@
+/* Este es un selector de etiqueta */
+body {
+    background-image: url("../img/papel-pintado-pared.jpg");
+    font-family: sans-serif;
+}
+
+h1 {
+    color:rgb(78, 187, 185);
+    text-align: center;
+}
